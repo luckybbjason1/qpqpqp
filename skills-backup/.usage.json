@@ -1,0 +1,41 @@
+{
+  "hermes-agent": {
+    "archived_at": null,
+    "created_at": "2026-06-12T01:36:23.636291+00:00",
+    "created_by": null,
+    "last_patched_at": null,
+    "last_used_at": "2026-06-12T01:47:09.106098+00:00",
+    "last_viewed_at": "2026-06-12T01:47:09.105232+00:00",
+    "patch_count": 0,
+    "pinned": false,
+    "state": "active",
+    "use_count": 3,
+    "view_count": 3
+  },
+  "hermes-data-sync": {
+    "archived_at": null,
+    "created_at": "2026-06-12T01:48:05.429166+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-06-12T01:48:15.014927+00:00",
+    "last_used_at": null,
+    "last_viewed_at": null,
+    "patch_count": 1,
+    "pinned": false,
+    "state": "active",
+    "use_count": 0,
+    "view_count": 0
+  },
+  "termux-setup": {
+    "archived_at": null,
+    "created_at": "2026-06-12T01:36:44.262745+00:00",
+    "created_by": "agent",
+    "last_patched_at": "2026-06-12T01:36:47.429312+00:00",
+    "last_used_at": "2026-06-12T01:48:18.967785+00:00",
+    "last_viewed_at": "2026-06-12T01:48:18.962617+00:00",
+    "patch_count": 1,
+    "pinned": false,
+    "state": "active",
+    "use_count": 3,
+    "view_count": 3
+  }
+}
