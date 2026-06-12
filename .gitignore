@@ -8,6 +8,7 @@ ollama_cloud_models_cache.json
 sessions/*.jsonl
 sessions/*.json
 sessions/*.bak
+sessions/*.sqlite3
 state.db
 state.db-wal
 state.db-shm
@@ -16,3 +17,12 @@ auth.json
 SOUL.md
 .interrupt_debug.log
 hermes-agent/
+.hermes_history
+*.mp3
+*.mp4
+*.jpg
+*.png
+*.gif
+*.zip
+*.tar.gz
+*.bak.*
